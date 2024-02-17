@@ -4,7 +4,7 @@
 #### Я веб-разработчик
 #### Я давно делал сайты с помощью HTML и CSS, мне это нравилось, получив высшее образование я понял, что хочу этим заниматься на постоянной основе и на должном уровне. Мне нравится делать сайты, и так же узнавать новые технологии по созданию сайтов.
 
-#### My contacts:
+#### My contacts/Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/LoneAngel) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:angellone@yandex.ru)
 
 #### What I use in my work:
