@@ -7,7 +7,7 @@
 #### My contacts/Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/LoneAngel) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:angellone@yandex.ru)
 
-#### What I use in my work:
+#### What I use in my work/Что я использую в моих работах:
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flate&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flate&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flate&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flate&logo=react&logoColor=white" alt="ReactJs"> </br>
 <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flate&logo=webpack&logoColor=white" alt="Webpack"> <img src="https://img.shields.io/badge/-Git-F05032?style=flate&logo=git&logoColor=white" alt="Git">
 
